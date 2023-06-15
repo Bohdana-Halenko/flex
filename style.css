@@ -1,1 +1,14 @@
-
+.box{
+width: 700px;
+height: 600px;
+border: 2px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.child{
+    background: yellow;
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+}
